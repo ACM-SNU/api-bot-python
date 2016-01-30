@@ -7,14 +7,8 @@ from tweepy.streaming import StreamListener
 from tweepy import OAuthHandler
 from tweepy import Stream
 
-
 import json
-
 import key
-
-import pprint
-
-
 global api 
 
 class StdOutListener(StreamListener):
@@ -35,7 +29,7 @@ class StdOutListener(StreamListener):
         #uncomment to to tweet from your twitter bot
         #although before tweeting you might want to implement
         #command parsing and your logic
-        #api.update_status(status='[ACM_BOT] ' + d["text"])
+        #api.update_status(status='[ACMSNUBOT] ' + d["text"])
         
 
         return True
