@@ -2,8 +2,7 @@
 Using twitter api and forecast.io created a bot which tweets weather status
 
 Slides :  
-http://slides.com/karansharma-2/deck/live
-
+http://slides.com/karansharma-2/deck/fullscreen
 iPythonNotebook : 
 [link to notebook](tweepydemo.ipynb)
 
