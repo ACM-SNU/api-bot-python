@@ -1,4 +1,4 @@
-Before coming for the session, do the following : 
+#### Before coming for the session, do the following : 
 
 1. Install pip
   *If Windows and using Python3(which in any case you should be) pip comes by default. Make sure Python is in your path
