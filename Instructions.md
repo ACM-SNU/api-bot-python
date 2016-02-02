@@ -14,12 +14,12 @@
   * If *nix :`source venv/bin/activate` 
 7. You should see something like `(venv)~/webbot >>`. That means your virtual env has been activated
 8. Install two modules we will be using for the session
-  * pip install tweepy
-  * pip install python-forecastio
+  * `pip install tweepy`
+  * `pip install python-forecastio`
 9. In order to use Twitter API and Weather API you need to have API keys which you get by registering on them
   * [Forecastio](https://developer.forecast.io/)
   * [Twitter](http://apps.twitter.com/)
 
-10. See you at the session 
+10. See you at the session :)
 
 
