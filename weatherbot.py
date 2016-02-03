@@ -5,6 +5,7 @@
 
 import tweepy
 import forecastio
+import sleep
 from time import strftime
 
 
