@@ -82,12 +82,6 @@ api = tweepy.API(auth)
 
 # In[64]:
 
-#Stupid, I know.
-def icon(temp):
-    if temp>24:
-        return u"\u2600"
-    else:
-        return u"\u2601"
 
 
 # In[72]:
